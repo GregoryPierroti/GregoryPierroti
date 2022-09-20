@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Grégory</h1>
-<h3 align="center">ACTUALLY I'M STUDENT OF DATA ENGINEER, I'M LIVING IN BRAZIL AND CURRENTLY I'M LEARNING SQL, DATA MODEL, PYTHON AND AZURE.</h3>
+<h3 align="center">I'M STUDENT OF DATA ENGINEER, I'M LIVING IN BRAZIL AND CURRENTLY I'M LEARNING SQL, DATA MODEL, PYTHON AND AZURE.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
